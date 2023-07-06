@@ -5,4 +5,4 @@ The repository will be updated from time to time.  If you are interested in the 
 
 
 ---------
-The author of these slides strongly advocates for the acceptance of individuals from all walks of life. When readers access these slides, which incorporate the author's creative endeavors, they implicitly adhere to similar values of acceptance and support for diversity in all its forms, including the LGBTQ+ community. 
+The author of these slides strongly advocates for the acceptance of individuals from all walks of life. When readers access these slides, which incorporate the author's creative endeavors, they implicitly adhere to similar values of acceptance and support for diversity in all its forms, including (but not limited to) the LGBTQ+ community. 
