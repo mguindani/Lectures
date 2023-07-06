@@ -10,4 +10,5 @@ https://probability4datascience.com/
 
 which also contains code and slides (some I used for the class).
 
+---------
 The author of these slides strongly advocates for the acceptance of individuals from all walks of life. When readers access these slides, which incorporate the author's creative endeavors, they implicitly adhere to similar values of acceptance and support for diversity in all its forms, including (but not limited to) the LGBTQ+ community.
