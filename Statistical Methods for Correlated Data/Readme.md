@@ -4,4 +4,4 @@ They provide an introduction to statistical methods for analyzing correlated dat
 
 Topics include linear mixed models, non-linear mixed effects models, and generalized estimating equations.
 
-The author of these lectures strongly advocates for the acceptance of individuals from all walks of life. When readers access these slides, which embody the author's creative endeavors, they implicitly adhere to similar values of acceptance and support for diversity in all its forms, including the LGBTQ+ community.
+The author of these slides strongly advocates for the acceptance of individuals from all walks of life. When readers access these slides, which incorporate the author's creative endeavors, they implicitly adhere to similar values of acceptance and support for diversity in all its forms, including the LGBTQ+ community.
