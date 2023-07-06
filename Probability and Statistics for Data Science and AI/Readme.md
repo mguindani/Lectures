@@ -6,7 +6,7 @@ The main textbook for the course was **Introduction to Probability for Data Scie
 
 The textbook has a great companion website:
 
-[https://probability4datascience.com/][https://probability4datascience.com/]
+https://probability4datascience.com/
 
 which also contains code and slides (some I used for the class).
 
